@@ -1,3 +1,5 @@
+[![Upload Python Package](https://github.com/A-Boring-Square/PyBuild/actions/workflows/python-publish.yml/badge.svg)](https://github.com/A-Boring-Square/PyBuild/actions/workflows/python-publish.yml)
+
 # PyBuild
 
 
