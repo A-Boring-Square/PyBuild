@@ -1,5 +1,5 @@
 [![Upload Python Package](https://github.com/A-Boring-Square/PyBuild/actions/workflows/python-publish.yml/badge.svg)](https://github.com/A-Boring-Square/PyBuild/actions/workflows/python-publish.yml)
-
+![Lines of code](https://img.shields.io/tokei/lines/github/A-Boring-Square/PyBuild)
 # PyBuild
 
 
